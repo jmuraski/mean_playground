@@ -1,0 +1,10 @@
+npm init
+npm install grunt --save-dev
+npm install express
+
+npm install coffee --save-dev
+node_modules/express/bin/express -e bully
+cd bully
+npm install ejs --save
+npm install
+
