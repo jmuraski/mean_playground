@@ -3,8 +3,8 @@ npm install grunt --save-dev
 npm install express
 
 npm install coffee --save-dev
-node_modules/express/bin/express -e bully
+node_modules/express/bin/express bully
 cd bully
-npm install ejs --save
+npm install jade --save
 npm install
 
