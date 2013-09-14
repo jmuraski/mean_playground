@@ -18,7 +18,8 @@
     "url": "https://github.com/jmuraski/mean_playground_bully/issues"
   },
   "devDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": "~0.4.1",
+    "coffee": "0.0.1"
   },
   "dependencies": {
     "express": "~3.4.0"
